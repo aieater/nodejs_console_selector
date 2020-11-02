@@ -1,0 +1,26 @@
+{
+  "name": "cselector",
+  "version": "0.8.0",
+  "description": "CSelector.",
+  "main": "cselector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aieater/nodejs_console_selector.git"
+  },
+  "keywords": [
+    "console",
+    "cselector"
+  ],
+  "author": "Pegara, Inc. <info@pegara.com> (https://www.gpueater.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aieater/nodejs_console_selector/issues"
+  },
+  "homepage": "https://github.com/aieater/nodejs_console_selector#readme",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
+}
